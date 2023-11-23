@@ -131,7 +131,7 @@ export default defineComponent({
 
 .empty {
   color: #bbc6fe85;
-  padding: 100px 0;
+  padding: 70px 0 120px;
 }
 
 .empty img {
