@@ -135,7 +135,7 @@ export default defineComponent({
 }
 
 .empty img {
-  max-width: 10%;
+  max-width: 115px;
 }
 
 @media (min-width: 500px) {
